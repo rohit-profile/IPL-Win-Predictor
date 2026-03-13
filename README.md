@@ -4,6 +4,10 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0.25-orange?logo=scikitlearn&logoColor=white) 
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+
+## 🌐 Live Link
+Try the live app here: [IPL Win Predictor](https://ipl-win-predictor-6wxd.onrender.com)
+
 ---
 
 ## 📌 Project Overview
